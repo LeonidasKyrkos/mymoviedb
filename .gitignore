@@ -60,7 +60,6 @@ packages/
 *crunch*.local.xml
 
 # visual studio database projects
-*.dbmdl
 
 #Test files
 *.testsettings
